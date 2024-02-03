@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ritikesh007
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on anyproject related on language
+- 💞️ I’m looking to collaborate on any project related to language
 - 📫 How to reach me email thisracing@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: there are many so just assume that they are funny and laugh 😁
